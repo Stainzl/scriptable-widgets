@@ -1,9 +1,9 @@
 # Farming Simulator 19 Server Status
 
-![Dark Medium Widget Example](ls19/assets/dark-medium.png)
-![Dark Small Widget Example](ls19/assets/dark-small.png)
-![Light Medium Widget Example](ls19/assets/light-medium.png)
-![Light Small Widget Example](ls19/assets/light-small.png)
+![Dark Medium Widget Example](assets/dark-medium.png)
+![Dark Small Widget Example](assets/dark-small.png)
+![Light Medium Widget Example](assets/light-medium.png)
+![Light Small Widget Example](assets/light-small.png)
 
 This widget shows the online status of a Farming Simulator 19 server.
 It displays basic information as well as the players that are online.
